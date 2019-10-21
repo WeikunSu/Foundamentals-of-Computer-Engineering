@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/swk74/Desktop/courses/Fundamentals of Computer Engineering EECE7205/hw1/swk/main.cpp
+iostream
+-
+ctime
+-
+

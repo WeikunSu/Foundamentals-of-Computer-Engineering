@@ -1,3 +1,0 @@
-C:/Users/swk74/Desktop/courses/Fundamentals of Computer Engineering EECE7205/hw1/swk/cmake-build-debug/CMakeFiles/swk.dir
-C:/Users/swk74/Desktop/courses/Fundamentals of Computer Engineering EECE7205/hw1/swk/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/swk74/Desktop/courses/Fundamentals of Computer Engineering EECE7205/hw1/swk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
